@@ -31,31 +31,31 @@
 					<center>
 						<table cellspacing="20px" align="center">
 							<tr><td>
-								<p><input type="text" name="nombre" value="" placeholder="Nombre: "/></p>
+								<p><input type="text" name="nombre" value="" placeholder="Nombre "/></p>
 							</td></tr>
 
 							<tr><td>
-								<input type="text" name="apellidos" placeholder="Apellidos:" />
+								<input type="text" name="apellidos" placeholder="Apellidos" />
 							</td></tr>
 
 							<tr><td>
-								<input type="text" name="dni" placeholder="DNI:"/>
+								<input type="text" name="dni" placeholder="DNI"/>
 							</td></tr>
 
 							<tr><td>
-								<input type="text" name="e_mail" placeholder="Introduzca su e-mail" />
+								<input type="text" name="e_mail" placeholder="e-mail" />
 							</td></tr>
 
 							<tr><td>
-								<input type="text" name="telefono" placeholder="Introduzca su Telefono" /></td>
+								<input type="text" name="telefono" placeholder="Telefono" /></td>
 							</tr>
 
 							<tr><td>
-								<input type="text" name="direccion" placeholder="Introduzca su Direccion"/>
+								<input type="text" name="direccion" placeholder="Direccion"/>
 							</td></tr>
 
 							<tr><td>
-								<input type="password" name="passwo" placeholder="Introduzca su Contrasenna"/>
+								<input type="password" name="passwo" placeholder="Contrasenna"/>
 							</td></tr>
 
 							<tr><td>
